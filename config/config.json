@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "maguzman",
+      "password": "2KAt8m0DfvHT52CGyN8yEJpR36HpR1WT",
+      "database": "evento_posipedia",
+      "host": "dpg-cr495h08fa8c73dj8ue0-a",
+      "dialect": "postgres"
+    }
+  }
+  
