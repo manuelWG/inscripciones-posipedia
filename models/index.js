@@ -4,7 +4,7 @@ const sequelize = new Sequelize(
     "maguzman",
     "2KAt8m0DfvHT52CGyN8yEJpR36HpR1WT",
     {
-        host: "postgresql://maguzman:2KAt8m0DfvHT52CGyN8yEJpR36HpR1WT@dpg-cr495h08fa8c73dj8ue0-a.oregon-postgres.render.com/evento_posipedia",
+        host: "dpg-cr495h08fa8c73dj8ue0-a",
         dialect: "postgres",
     }
 );
